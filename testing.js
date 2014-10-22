@@ -3,4 +3,6 @@
  */
 var first=23;
 var second=42;
-var third="hello worls";
+
+var third="hello world";
+var forth="56";
